@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Document-Parsing-LLM-Ingestion-Engines/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Document-Parsing-LLM-Ingestion-Engines?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Document-Parsing-LLM-Ingestion-Engines/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Document-Parsing-LLM-Ingestion-Engines?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Document-Parsing-LLM-Ingestion-Engines/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Document-Parsing-LLM-Ingestion-Engines?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Document-Parsing-LLM-Ingestion-Engines/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -79,9 +79,9 @@ The table below catalogs leading hosted and managed document extraction and LLM 
 
 The table below catalogs notable open-source document parsing libraries, multimodal OCR engines, text splitters, and data extraction toolkits.
 
-> Sorted in descending order by current GitHub star count. Each badge links directly to the repository's stargazers page.
+> Sorted in descending order by current GitHub Stars_Count. Each badge links directly to the repository's stargazers page.
 
-| Repository | GitHub Stars | Primary Language / Ecosystem | Core Capabilities & Architecture |
+| Repository | GitHub_Stars | Primary Language / Ecosystem | Core Capabilities & Architecture |
 | :--- | :--- | :--- | :--- |
 | **[mendableai/firecrawl](https://github.com/mendableai/firecrawl)** | [![Stars](https://img.shields.io/github/stars/mendableai/firecrawl?style=social&color=white)](https://github.com/mendableai/firecrawl/stargazers) | TypeScript / Python | Open-source web-to-Markdown engine turning dynamic websites, PDFs, and sitemaps into clean, LLM-ready context. |
 | **[microsoft/markitdown](https://github.com/microsoft/markitdown)** | [![Stars](https://img.shields.io/github/stars/microsoft/markitdown?style=social&color=white)](https://github.com/microsoft/markitdown/stargazers) | Python | Microsoft's multi-format parser converting PDF, Word, PowerPoint, Excel, audio EXIF/transcripts, and HTML into Markdown. |
@@ -145,7 +145,7 @@ Contributions are welcome! Please follow these steps:
 2. 🌿 Create a feature branch (`git checkout -b feature/add-new-parser`).
 3. 📝 Add your tool to `README.md` adhering to the tabular layout:
    - For **SaaS tools**: Provide exact starting tier pricing, free tier/trial limits, valuation/revenue scale, and target use case.
-   - For **Open-source projects**: Provide GitHub repo link, shield star badge (`style=social&color=white`) linking to its stargazers page, language, and core capabilities.
+   - For **Open-source projects**: Provide GitHub repo link, shield Stars_Badge (`style=social&color=white`) linking to its stargazers page, language, and core capabilities.
 4. 📬 Submit a Pull Request with a brief summary of the engine.
 
 ---
